@@ -1,0 +1,226 @@
+
+gacha.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+006
+  rotate: true
+  xy: 478, 516
+  size: 579, 914
+  orig: 580, 1256
+  offset: 0, 204
+  index: -1
+007
+  rotate: false
+  xy: 1394, 43
+  size: 580, 818
+  orig: 580, 1256
+  offset: 0, 275
+  index: -1
+bag_down1
+  rotate: true
+  xy: 505, 1104
+  size: 377, 507
+  orig: 377, 507
+  offset: 0, 0
+  index: -1
+bag_down2
+  rotate: false
+  xy: 482, 1502
+  size: 369, 56
+  orig: 369, 59
+  offset: 0, 3
+  index: -1
+bag_up1
+  rotate: false
+  xy: 1076, 1482
+  size: 367, 76
+  orig: 367, 76
+  offset: 0, 0
+  index: -1
+card_back_2
+  rotate: true
+  xy: 2, 1134
+  size: 366, 501
+  orig: 366, 501
+  offset: 0, 0
+  index: -1
+cut
+  rotate: false
+  xy: 2, 1520
+  size: 478, 38
+  orig: 480, 50
+  offset: 1, 6
+  index: -1
+gacha
+  rotate: true
+  xy: 1014, 1097
+  size: 377, 573
+  orig: 377, 573
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 1702, 1316
+  size: 242, 242
+  orig: 249, 249
+  offset: 3, 3
+  index: -1
+mask
+  rotate: false
+  xy: 1445, 1478
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+mask_2
+  rotate: false
+  xy: 999, 1483
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+prt_1
+  rotate: false
+  xy: 929, 1492
+  size: 68, 66
+  orig: 73, 67
+  offset: 2, 0
+  index: -1
+prt_2
+  rotate: true
+  xy: 1611, 1475
+  size: 83, 89
+  orig: 84, 91
+  offset: 1, 1
+  index: -1
+prt_3
+  rotate: false
+  xy: 1527, 1476
+  size: 82, 82
+  orig: 85, 84
+  offset: 2, 1
+  index: -1
+prt_4
+  rotate: true
+  xy: 853, 1493
+  size: 65, 74
+  orig: 67, 77
+  offset: 1, 1
+  index: -1
+ray
+  rotate: true
+  xy: 2, 669
+  size: 463, 474
+  orig: 512, 512
+  offset: 16, 18
+  index: -1
+star2
+  rotate: false
+  xy: 1589, 863
+  size: 451, 451
+  orig: 497, 497
+  offset: 24, 22
+  index: -1
+xinkong
+  rotate: true
+  xy: 2, 2
+  size: 512, 1110
+  orig: 512, 1110
+  offset: 0, 0
+  index: -1
+
+gacha2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+004
+  rotate: true
+  xy: 2, 584
+  size: 580, 1255
+  orig: 580, 1256
+  offset: 0, 0
+  index: -1
+005
+  rotate: true
+  xy: 2, 1166
+  size: 579, 1255
+  orig: 580, 1256
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 1259, 602
+  size: 580, 1143
+  orig: 580, 1256
+  offset: 0, 112
+  index: -1
+009
+  rotate: true
+  xy: 2, 2
+  size: 580, 1256
+  orig: 580, 1256
+  offset: 0, 0
+  index: -1
+
+gacha3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+010
+  rotate: true
+  xy: 2, 754
+  size: 580, 1256
+  orig: 580, 1256
+  offset: 0, 0
+  index: -1
+gacha_bg
+  rotate: true
+  xy: 2, 2
+  size: 750, 1624
+  orig: 750, 1624
+  offset: 0, 0
+  index: -1
+
+gacha4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gacha_bg_3
+  rotate: true
+  xy: 2, 754
+  size: 750, 1624
+  orig: 750, 1624
+  offset: 0, 0
+  index: -1
+gacha_bg_4
+  rotate: true
+  xy: 2, 2
+  size: 750, 1624
+  orig: 750, 1624
+  offset: 0, 0
+  index: -1
+
+gacha5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gacha_bg_5
+  rotate: false
+  xy: 1174, 2
+  size: 750, 1624
+  orig: 750, 1624
+  offset: 0, 0
+  index: -1
+xuan3
+  rotate: false
+  xy: 2, 164
+  size: 1170, 1462
+  orig: 1170, 1470
+  offset: 0, 6
+  index: -1

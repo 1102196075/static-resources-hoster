@@ -1,0 +1,377 @@
+
+click_good.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+good
+  rotate: false
+  xy: 511, 747
+  size: 262, 98
+  orig: 263, 99
+  offset: 1, 1
+  index: -1
+great
+  rotate: false
+  xy: 337, 370
+  size: 316, 98
+  orig: 317, 99
+  offset: 1, 1
+  index: -1
+hand1
+  rotate: true
+  xy: 2, 134
+  size: 212, 200
+  orig: 212, 200
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 204, 134
+  size: 212, 200
+  orig: 212, 200
+  offset: 0, 0
+  index: -1
+hand4
+  rotate: true
+  xy: 337, 470
+  size: 212, 200
+  orig: 212, 200
+  offset: 0, 0
+  index: -1
+perfect
+  rotate: false
+  xy: 2, 34
+  size: 409, 98
+  orig: 409, 99
+  offset: 0, 1
+  index: -1
+shien
+  rotate: false
+  xy: 2, 684
+  size: 338, 338
+  orig: 360, 360
+  offset: 11, 11
+  index: -1
+shine
+  rotate: false
+  xy: 2, 348
+  size: 333, 334
+  orig: 335, 335
+  offset: 1, 0
+  index: -1
+vfx_click/good_01
+  rotate: false
+  xy: 406, 193
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/good_03
+  rotate: false
+  xy: 413, 16
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/good_05
+  rotate: false
+  xy: 583, 193
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/good_07
+  rotate: false
+  xy: 590, 16
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/good_09
+  rotate: false
+  xy: 342, 847
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/good_11
+  rotate: false
+  xy: 519, 847
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/good_13
+  rotate: false
+  xy: 696, 847
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/good_15
+  rotate: false
+  xy: 539, 570
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/good_17
+  rotate: false
+  xy: 655, 393
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/good_19
+  rotate: false
+  xy: 716, 570
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/good_21
+  rotate: false
+  xy: 760, 216
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/good_23
+  rotate: false
+  xy: 832, 393
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/good_25
+  rotate: false
+  xy: 767, 39
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/good_27
+  rotate: false
+  xy: 937, 216
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/good_29
+  rotate: false
+  xy: 944, 39
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/great_01
+  rotate: false
+  xy: 873, 847
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/great_03
+  rotate: false
+  xy: 893, 670
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/great_05
+  rotate: false
+  xy: 1050, 847
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/great_07
+  rotate: false
+  xy: 1009, 493
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/great_09
+  rotate: false
+  xy: 1070, 670
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/great_11
+  rotate: false
+  xy: 1227, 847
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/great_13
+  rotate: false
+  xy: 1114, 316
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/great_15
+  rotate: false
+  xy: 1186, 493
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/great_17
+  rotate: false
+  xy: 1247, 670
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/great_19
+  rotate: false
+  xy: 1404, 847
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/great_21
+  rotate: false
+  xy: 1121, 139
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/great_23
+  rotate: false
+  xy: 1471, 161
+  size: 154, 156
+  orig: 175, 175
+  offset: 14, 0
+  index: -1
+vfx_click/great_25
+  rotate: false
+  xy: 1291, 316
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/great_27
+  rotate: false
+  xy: 1363, 493
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/great_29
+  rotate: false
+  xy: 1424, 670
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+vfx_click/perfect_01
+  rotate: false
+  xy: 1254, 29
+  size: 103, 108
+  orig: 175, 175
+  offset: 38, 35
+  index: -1
+vfx_click/perfect_03
+  rotate: true
+  xy: 1121, 5
+  size: 132, 131
+  orig: 175, 175
+  offset: 24, 25
+  index: -1
+vfx_click/perfect_05
+  rotate: true
+  xy: 1657, 18
+  size: 147, 145
+  orig: 175, 175
+  offset: 17, 19
+  index: -1
+vfx_click/perfect_07
+  rotate: true
+  xy: 1753, 862
+  size: 160, 154
+  orig: 175, 175
+  offset: 11, 16
+  index: -1
+vfx_click/perfect_09
+  rotate: false
+  xy: 342, 685
+  size: 167, 160
+  orig: 175, 175
+  offset: 8, 13
+  index: -1
+vfx_click/perfect_11
+  rotate: true
+  xy: 1601, 675
+  size: 170, 164
+  orig: 175, 175
+  offset: 5, 11
+  index: -1
+vfx_click/perfect_13
+  rotate: true
+  xy: 1540, 497
+  size: 171, 168
+  orig: 175, 175
+  offset: 4, 7
+  index: -1
+vfx_click/perfect_15
+  rotate: true
+  xy: 1468, 319
+  size: 172, 171
+  orig: 175, 175
+  offset: 3, 4
+  index: -1
+vfx_click/perfect_17
+  rotate: false
+  xy: 1298, 141
+  size: 171, 173
+  orig: 175, 175
+  offset: 4, 2
+  index: -1
+vfx_click/perfect_19
+  rotate: false
+  xy: 1581, 847
+  size: 170, 175
+  orig: 175, 175
+  offset: 5, 0
+  index: -1
+vfx_click/perfect_21
+  rotate: false
+  xy: 1506, 7
+  size: 149, 152
+  orig: 175, 175
+  offset: 13, 0
+  index: -1
+vfx_click/perfect_23
+  rotate: false
+  xy: 1627, 167
+  size: 143, 150
+  orig: 175, 175
+  offset: 13, 0
+  index: -1
+vfx_click/perfect_25
+  rotate: false
+  xy: 1641, 345
+  size: 141, 150
+  orig: 175, 175
+  offset: 14, 0
+  index: -1
+vfx_click/perfect_27
+  rotate: false
+  xy: 1772, 195
+  size: 140, 148
+  orig: 175, 175
+  offset: 15, 1
+  index: -1
+vfx_click/perfect_29
+  rotate: true
+  xy: 1359, 2
+  size: 137, 145
+  orig: 175, 175
+  offset: 17, 2
+  index: -1

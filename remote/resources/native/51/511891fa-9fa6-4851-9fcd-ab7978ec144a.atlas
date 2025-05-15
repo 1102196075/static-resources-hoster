@@ -1,0 +1,20 @@
+
+game_question.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qst_bg
+  rotate: false
+  xy: 2, 2
+  size: 1316, 363
+  orig: 1320, 366
+  offset: 2, 2
+  index: -1
+qst_round_bg
+  rotate: false
+  xy: 1320, 60
+  size: 286, 305
+  orig: 299, 315
+  offset: 6, 7
+  index: -1

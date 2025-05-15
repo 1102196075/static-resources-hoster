@@ -1,0 +1,69 @@
+
+game_transition.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: true
+  xy: 1288, 465
+  size: 84, 39
+  orig: 84, 39
+  offset: 0, 0
+  index: -1
+caihong
+  rotate: false
+  xy: 2, 551
+  size: 1337, 571
+  orig: 1337, 571
+  offset: 0, 0
+  index: -1
+ju
+  rotate: true
+  xy: 1972, 391
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+match_start_bg
+  rotate: false
+  xy: 482, 2
+  size: 1500, 296
+  orig: 1500, 304
+  offset: 0, 7
+  index: -1
+mubu
+  rotate: true
+  xy: 1341, 452
+  size: 670, 682
+  orig: 670, 682
+  offset: 0, 0
+  index: -1
+panle
+  rotate: false
+  xy: 298, 195
+  size: 182, 177
+  orig: 182, 177
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 2, 110
+  size: 262, 294
+  orig: 262, 294
+  offset: 0, 0
+  index: -1
+start_bg
+  rotate: false
+  xy: 1288, 300
+  size: 682, 150
+  orig: 682, 150
+  offset: 0, 0
+  index: -1
+text_1
+  rotate: false
+  xy: 2, 374
+  size: 1284, 175
+  orig: 1284, 175
+  offset: 0, 0
+  index: -1

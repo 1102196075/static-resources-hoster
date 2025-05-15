@@ -1,0 +1,111 @@
+
+pop_game_result.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cat_hand_1
+  rotate: false
+  xy: 54, 1238
+  size: 126, 70
+  orig: 126, 70
+  offset: 0, 0
+  index: -1
+cat_hand_2
+  rotate: false
+  xy: 453, 1216
+  size: 120, 92
+  orig: 120, 92
+  offset: 0, 0
+  index: -1
+coin
+  rotate: true
+  xy: 765, 1132
+  size: 176, 177
+  orig: 176, 178
+  offset: 0, 1
+  index: -1
+coin_1
+  rotate: false
+  xy: 575, 1196
+  size: 188, 112
+  orig: 189, 113
+  offset: 1, 1
+  index: -1
+game_over
+  rotate: false
+  xy: 944, 1118
+  size: 671, 190
+  orig: 671, 191
+  offset: 0, 1
+  index: -1
+gift
+  rotate: false
+  xy: 1454, 726
+  size: 352, 294
+  orig: 364, 294
+  offset: 12, 0
+  index: -1
+grass
+  rotate: false
+  xy: 2, 960
+  size: 1450, 156
+  orig: 1451, 156
+  offset: 1, 0
+  index: -1
+integral_bg
+  rotate: false
+  xy: 2, 716
+  size: 1198, 242
+  orig: 1198, 242
+  offset: 0, 0
+  index: -1
+mao
+  rotate: true
+  xy: 1617, 1022
+  size: 286, 350
+  orig: 286, 350
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 2, 1258
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+result_bg
+  rotate: true
+  xy: 2, 2
+  size: 712, 1034
+  orig: 712, 1034
+  offset: 0, 0
+  index: -1
+rope
+  rotate: false
+  xy: 343, 1225
+  size: 108, 83
+  orig: 108, 83
+  offset: 0, 0
+  index: -1
+star_1
+  rotate: false
+  xy: 264, 1234
+  size: 77, 74
+  orig: 77, 77
+  offset: 0, 1
+  index: -1
+star_2
+  rotate: false
+  xy: 182, 1236
+  size: 80, 72
+  orig: 82, 72
+  offset: 2, 0
+  index: -1
+vfx_pop_award
+  rotate: false
+  xy: 1202, 340
+  size: 384, 384
+  orig: 512, 512
+  offset: 67, 61
+  index: -1

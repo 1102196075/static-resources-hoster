@@ -1,0 +1,83 @@
+
+game_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/car
+  rotate: true
+  xy: 842, 704
+  size: 237, 124
+  orig: 237, 124
+  offset: 0, 0
+  index: -1
+image/cloud_1
+  rotate: true
+  xy: 754, 943
+  size: 1096, 240
+  orig: 1096, 240
+  offset: 0, 0
+  index: -1
+image/cloud_2
+  rotate: true
+  xy: 1152, 943
+  size: 1096, 282
+  orig: 1096, 282
+  offset: 0, 0
+  index: -1
+image/game_bg
+  rotate: false
+  xy: 2, 441
+  size: 750, 1598
+  orig: 750, 1598
+  offset: 0, 0
+  index: -1
+image/grass
+  rotate: false
+  xy: 2, 66
+  size: 1148, 373
+  orig: 1148, 373
+  offset: 0, 0
+  index: -1
+image/mountain_1
+  rotate: true
+  xy: 996, 1248
+  size: 791, 97
+  orig: 791, 97
+  offset: 0, 0
+  index: -1
+image/mountain_2
+  rotate: true
+  xy: 754, 572
+  size: 369, 86
+  orig: 371, 86
+  offset: 0, 0
+  index: -1
+image/mountain_3
+  rotate: true
+  xy: 996, 697
+  size: 549, 75
+  orig: 549, 75
+  offset: 0, 0
+  index: -1
+image/mountain_4
+  rotate: false
+  xy: 2, 2
+  size: 523, 62
+  orig: 523, 62
+  offset: 0, 0
+  index: -1
+image/river
+  rotate: true
+  xy: 1436, 779
+  size: 1260, 182
+  orig: 1260, 182
+  offset: 0, 0
+  index: -1
+image/wheel
+  rotate: false
+  xy: 527, 25
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1

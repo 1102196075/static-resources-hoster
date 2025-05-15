@@ -1,0 +1,465 @@
+
+vfx_card_frame.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_18
+  rotate: false
+  xy: 1007, 792
+  size: 360, 432
+  orig: 366, 502
+  offset: 3, 35
+  index: -1
+3_19
+  rotate: true
+  xy: 1007, 430
+  size: 360, 430
+  orig: 366, 502
+  offset: 3, 36
+  index: -1
+3_20
+  rotate: true
+  xy: 1369, 864
+  size: 360, 430
+  orig: 366, 502
+  offset: 3, 36
+  index: -1
+3_21
+  rotate: false
+  xy: 1439, 433
+  size: 359, 429
+  orig: 366, 502
+  offset: 3, 37
+  index: -1
+3_22
+  rotate: true
+  xy: 1439, 72
+  size: 359, 427
+  orig: 366, 502
+  offset: 3, 38
+  index: -1
+3_23
+  rotate: false
+  xy: 1007, 2
+  size: 359, 426
+  orig: 366, 502
+  offset: 4, 39
+  index: -1
+card_frame_1
+  rotate: false
+  xy: 2, 955
+  size: 732, 1003
+  orig: 732, 1003
+  offset: 0, 0
+  index: -1
+card_frame_2
+  rotate: true
+  xy: 2, 221
+  size: 732, 1003
+  orig: 732, 1003
+  offset: 0, 0
+  index: -1
+card_frame_3
+  rotate: true
+  xy: 736, 1226
+  size: 732, 1003
+  orig: 732, 1003
+  offset: 0, 0
+  index: -1
+
+vfx_card_frame2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_00
+  rotate: true
+  xy: 1155, 1428
+  size: 354, 432
+  orig: 366, 502
+  offset: 7, 36
+  index: -1
+3_01
+  rotate: true
+  xy: 1589, 1429
+  size: 353, 431
+  orig: 366, 502
+  offset: 7, 36
+  index: -1
+3_02
+  rotate: true
+  xy: 718, 359
+  size: 352, 429
+  orig: 366, 502
+  offset: 7, 37
+  index: -1
+3_03
+  rotate: true
+  xy: 1155, 1076
+  size: 350, 428
+  orig: 366, 502
+  offset: 8, 37
+  index: -1
+3_04
+  rotate: true
+  xy: 1152, 721
+  size: 353, 428
+  orig: 366, 502
+  offset: 6, 37
+  index: -1
+3_05
+  rotate: true
+  xy: 1589, 1074
+  size: 353, 426
+  orig: 366, 502
+  offset: 6, 38
+  index: -1
+3_06
+  rotate: true
+  xy: 1582, 718
+  size: 354, 426
+  orig: 366, 502
+  offset: 6, 38
+  index: -1
+3_07
+  rotate: true
+  xy: 1580, 362
+  size: 354, 425
+  orig: 366, 502
+  offset: 6, 38
+  index: -1
+3_08
+  rotate: true
+  xy: 1575, 6
+  size: 354, 424
+  orig: 366, 502
+  offset: 6, 39
+  index: -1
+3_10
+  rotate: true
+  xy: 1150, 364
+  size: 355, 428
+  orig: 366, 502
+  offset: 6, 37
+  index: -1
+3_11
+  rotate: true
+  xy: 718, 2
+  size: 355, 429
+  orig: 366, 502
+  offset: 6, 36
+  index: -1
+3_12
+  rotate: true
+  xy: 720, 1070
+  size: 355, 430
+  orig: 366, 502
+  offset: 6, 35
+  index: -1
+3_13
+  rotate: true
+  xy: 718, 713
+  size: 355, 430
+  orig: 366, 502
+  offset: 6, 35
+  index: -1
+3_14
+  rotate: false
+  xy: 362, 1350
+  size: 356, 432
+  orig: 366, 502
+  offset: 6, 35
+  index: -1
+3_15
+  rotate: false
+  xy: 2, 480
+  size: 355, 433
+  orig: 366, 502
+  offset: 6, 35
+  index: -1
+3_16
+  rotate: false
+  xy: 2, 45
+  size: 354, 433
+  orig: 366, 502
+  offset: 7, 34
+  index: -1
+3_17
+  rotate: false
+  xy: 2, 1350
+  size: 358, 432
+  orig: 366, 502
+  offset: 4, 35
+  index: -1
+3_24
+  rotate: true
+  xy: 1149, 4
+  size: 358, 424
+  orig: 366, 502
+  offset: 5, 40
+  index: -1
+3_25
+  rotate: false
+  xy: 358, 51
+  size: 358, 427
+  orig: 366, 502
+  offset: 5, 37
+  index: -1
+3_26
+  rotate: false
+  xy: 360, 484
+  size: 356, 430
+  orig: 366, 502
+  offset: 6, 35
+  index: -1
+3_27
+  rotate: false
+  xy: 360, 916
+  size: 356, 432
+  orig: 366, 502
+  offset: 6, 35
+  index: -1
+3_28
+  rotate: false
+  xy: 2, 915
+  size: 356, 433
+  orig: 366, 502
+  offset: 6, 35
+  index: -1
+3_29
+  rotate: true
+  xy: 720, 1427
+  size: 355, 433
+  orig: 366, 502
+  offset: 7, 35
+  index: -1
+
+vfx_card_frame3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_00
+  rotate: true
+  xy: 1353, 1644
+  size: 325, 404
+  orig: 366, 502
+  offset: 21, 50
+  index: -1
+2_01
+  rotate: false
+  xy: 746, 26
+  size: 325, 404
+  orig: 366, 502
+  offset: 21, 50
+  index: -1
+2_03
+  rotate: false
+  xy: 1022, 1568
+  size: 329, 401
+  orig: 366, 502
+  offset: 18, 51
+  index: -1
+2_04
+  rotate: false
+  xy: 2, 734
+  size: 333, 401
+  orig: 366, 502
+  offset: 16, 52
+  index: -1
+2_06
+  rotate: false
+  xy: 668, 763
+  size: 333, 397
+  orig: 366, 502
+  offset: 17, 53
+  index: -1
+2_07
+  rotate: false
+  xy: 1408, 36
+  size: 331, 395
+  orig: 366, 502
+  offset: 18, 54
+  index: -1
+2_11
+  rotate: false
+  xy: 411, 2
+  size: 333, 399
+  orig: 366, 502
+  offset: 18, 50
+  index: -1
+2_12
+  rotate: true
+  xy: 338, 403
+  size: 331, 402
+  orig: 366, 502
+  offset: 19, 48
+  index: -1
+2_13
+  rotate: false
+  xy: 668, 1162
+  size: 330, 402
+  orig: 366, 502
+  offset: 19, 50
+  index: -1
+2_14
+  rotate: false
+  xy: 2, 1137
+  size: 329, 407
+  orig: 366, 502
+  offset: 19, 47
+  index: -1
+2_15
+  rotate: true
+  xy: 2, 4
+  size: 327, 407
+  orig: 366, 502
+  offset: 20, 48
+  index: -1
+2_16
+  rotate: true
+  xy: 1003, 841
+  size: 324, 407
+  orig: 366, 502
+  offset: 21, 48
+  index: -1
+2_17
+  rotate: false
+  xy: 1145, 433
+  size: 323, 406
+  orig: 366, 502
+  offset: 22, 48
+  index: -1
+2_18
+  rotate: false
+  xy: 337, 736
+  size: 329, 405
+  orig: 366, 502
+  offset: 20, 49
+  index: -1
+2_19
+  rotate: false
+  xy: 358, 1566
+  size: 331, 403
+  orig: 366, 502
+  offset: 18, 50
+  index: -1
+2_20
+  rotate: false
+  xy: 333, 1143
+  size: 333, 401
+  orig: 366, 502
+  offset: 18, 51
+  index: -1
+2_21
+  rotate: false
+  xy: 2, 333
+  size: 334, 399
+  orig: 366, 502
+  offset: 17, 52
+  index: -1
+2_22
+  rotate: false
+  xy: 1000, 1167
+  size: 333, 397
+  orig: 366, 502
+  offset: 17, 53
+  index: -1
+2_23
+  rotate: false
+  xy: 1073, 36
+  size: 333, 394
+  orig: 366, 502
+  offset: 17, 55
+  index: -1
+2_24
+  rotate: false
+  xy: 1470, 447
+  size: 332, 392
+  orig: 366, 502
+  offset: 17, 55
+  index: -1
+2_26
+  rotate: false
+  xy: 1412, 841
+  size: 331, 396
+  orig: 366, 502
+  offset: 17, 51
+  index: -1
+2_27
+  rotate: true
+  xy: 742, 432
+  size: 329, 401
+  orig: 366, 502
+  offset: 18, 50
+  index: -1
+2_28
+  rotate: false
+  xy: 691, 1566
+  size: 329, 403
+  orig: 366, 502
+  offset: 18, 50
+  index: -1
+2_29
+  rotate: true
+  xy: 1335, 1239
+  size: 327, 403
+  orig: 366, 502
+  offset: 20, 50
+  index: -1
+3_09
+  rotate: false
+  xy: 2, 1546
+  size: 354, 423
+  orig: 366, 502
+  offset: 6, 39
+  index: -1
+
+vfx_card_frame4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_02
+  rotate: true
+  xy: 2, 671
+  size: 321, 401
+  orig: 366, 502
+  offset: 23, 50
+  index: -1
+2_05
+  rotate: true
+  xy: 2, 341
+  size: 328, 393
+  orig: 366, 502
+  offset: 20, 55
+  index: -1
+2_08
+  rotate: true
+  xy: 405, 666
+  size: 326, 388
+  orig: 366, 502
+  offset: 20, 58
+  index: -1
+2_09
+  rotate: true
+  xy: 397, 336
+  size: 328, 385
+  orig: 366, 502
+  offset: 20, 59
+  index: -1
+2_10
+  rotate: true
+  xy: 2, 11
+  size: 328, 385
+  orig: 366, 502
+  offset: 20, 57
+  index: -1
+2_25
+  rotate: true
+  xy: 389, 2
+  size: 332, 392
+  orig: 366, 502
+  offset: 17, 54
+  index: -1
